@@ -10,3 +10,9 @@ Imprescindibles:
 Deseables:
 
 * Categoría Radio
+* Agenda sobre peliculas/serie con un mail
+* 
+  
+
+[Imagen de Tu Lista](ImagenTuLista.jpg) 
+
