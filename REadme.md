@@ -2,4 +2,4 @@ Idea del proyecto: crear una plataforma de streaming donde el usuario podrá enc
 
 Nombre: ReacTV
 
-
+git remote add origin https://github.com/MoniCrichton/ReacTV.git
