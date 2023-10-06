@@ -16,3 +16,6 @@ Deseables:
 
 [Imagen de Tu Lista](ImagenTuLista.jpg) 
 
+
+Sabiendo que está instalado node.js, se dió inicio a la app con el siguiente comando: npx create-react-app reactv
+y se comenzó con cd reactv y npm start
